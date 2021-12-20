@@ -1,3 +1,18 @@
 # Countries APP
 
-Redux Toolkit version on `Redux` branch.
+
+
+Basic app on Redux Toolkit with country API.
+
+### Install
+
+```bash
+npm install
+```
+
+### Start
+
+```bash
+npm start
+```
+
