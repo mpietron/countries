@@ -1,0 +1,32 @@
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: rgba($color: #FFF, $alpha: .97) ;
+    padding: 2rem;
+    .container{
+        display: flex;
+    }
+    div.search{
+        padding: 0.5rem 1rem;
+        border: 1px solid #ababab;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        width: 20%;
+        input{
+            border: 0;
+            outline: none;
+            margin-left: 0.5rem;
+        }
+        
+    }
+    select{
+        border: 0;
+        outline: 0;
+        border: 1px solid #ababab;
+        background-color: #FFF;
+        margin-left: 1rem;
+        padding: auto 0.5rem;
+    }
+}
